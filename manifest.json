@@ -1,6 +1,4 @@
-
 {
-
     "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
     "name": "TIP3 Tokens List",
     "version": {
