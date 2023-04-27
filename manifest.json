@@ -71,9 +71,9 @@
             "vendor": "venom"
         },
         {
-            "name": "BNB",
+            "name": "Wrapped BNB",
             "chainId": 1000,
-            "symbol": "BNB",
+            "symbol": "WBNB",
             "decimals": 18,
             "address": "0:f911b5916f10d679e5aeb167458c1bc811721a604d83ccc91ab5983e277f4f56",
             "logoURI": "https://cdn.venom.foundation/assets/testnet/icons/BNB/logo.svg",
