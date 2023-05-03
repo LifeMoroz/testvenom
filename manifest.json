@@ -166,6 +166,17 @@
             "version": 5,
             "verified": true,
             "vendor": "venom"
+        },
+        {
+            "name": "Staked Venom",
+            "chainId": 1000,
+            "symbol": "STVENOM",
+            "decimals": 9,
+            "address": "0:30c8d42e9c84d214eec662621b0614e8b6798b33a4b93ce7a2d0662f532ee01d",
+            "logoURI": "https://cdn.venom.foundation/assets/testnet/icons/STVENOM/logo.svg",
+            "version": 5,
+            "verified": true,
+            "vendor": "venom"
         }
     ]
 
