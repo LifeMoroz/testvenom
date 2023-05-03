@@ -177,6 +177,39 @@
             "version": 5,
             "verified": true,
             "vendor": "venom"
+        },
+        {
+            "name": "Nümi",
+            "chainId": 1000,
+            "symbol": "NUMI",
+            "decimals": 9,
+            "address": "0:c45801ac28c32ffcea225450cb6c1b94686115d6b74787feb9c6d5701cb84399",
+            "logoURI": "https://cdn.venom.foundation/assets/testnet/icons/NUMI/logo.svg",
+            "version": 5,
+            "verified": true,
+            "vendor": "venom"
+        },
+        {
+            "name": "LIQBOT",
+            "chainId": 1000,
+            "symbol": "LIQ",
+            "decimals": 9,
+            "address": "0:3193ea2f43d9499a4d35e05df9d134deca60e4047b028c6668fce0a58a2a0a46",
+            "logoURI": "https://cdn.venom.foundation/assets/testnet/icons/LIQ/logo.svg",
+            "version": 5,
+            "verified": true,
+            "vendor": "venom"
+        },
+        {
+            "name": "DIVO Global Platform",
+            "chainId": 1000,
+            "symbol": "DVO",
+            "decimals": 18,
+            "address": "0:725cc360b7b9357ddf438b1bd7abf58266b3584bb4d154a687214c286aa5074e",
+            "logoURI": "https://cdn.venom.foundation/assets/testnet/icons/DVO/logo.svg",
+            "version": 5,
+            "verified": true,
+            "vendor": "venom"
         }
     ]
 
